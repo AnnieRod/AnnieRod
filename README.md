@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on [Medcenter(medical services management system)](https://github.com/AnnieRod/Medcenter/tree/master)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django, Ruby**
 
 - 👯 I’m looking to collaborate on **Flask-Python projects and anything that can help me get better at backend.**
 
 - 💬 Ask me about **Flask and database management with MySQL**
-
-- 📫 How to reach me **euphie.13@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1V2W94mnFYOWwtzqtjYGYhehcFPe0tJ8C/view?usp=sharing](https://drive.google.com/file/d/1V2W94mnFYOWwtzqtjYGYhehcFPe0tJ8C/view?usp=sharing)
 
