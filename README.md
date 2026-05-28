@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana Rodríguez</h1>
-<h3 align="center">A self-taught developer exploring web development with Flask, Python, MySQL, HTML, CSS(w/ Bootstrap too) and JS.</h3>
+<h3 align="center">A self-taught enthusiast exploring web development with Flask, Python, MySQL, HTML, CSS(w/ Bootstrap too) and JS.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annierod" alt="annierod" /></a> </p>
 
