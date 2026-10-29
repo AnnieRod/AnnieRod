@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **Flask and database management with MySQL**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V2W94mnFYOWwtzqtjYGYhehcFPe0tJ8C/view?usp=sharing](https://drive.google.com/file/d/1V2W94mnFYOWwtzqtjYGYhehcFPe0tJ8C/view?usp=sharing)
 
 - ⚡ Fun fact **I love learning and challenging myself.**
 
